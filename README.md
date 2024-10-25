@@ -1,3 +1,1 @@
-# Fundamentos de Programación - Curso Essaya - 1C2022
-
-Trabajo Práctico 3 basado en el juego Flood.
+Basado en el juego [Flood](https://unixpapa.com/floodit/).
